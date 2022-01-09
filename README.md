@@ -1,2 +1,2 @@
 # JavaScript-Revisited
-Frequently asked JavaScript interview questions.
+Frequently Asked JavaScript Interview Questions.
