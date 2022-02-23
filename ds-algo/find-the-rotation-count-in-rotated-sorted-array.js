@@ -1,6 +1,6 @@
 //Consider an array of distinct numbers sorted in increasing order. 
 //The array has been rotated (clockwise) k number of times. Given such an array, find the value of k.
-//Input : arr[] = {15, 18, 2, 3, 6, 12}
+//Input : arr= [15, 18, 2, 3, 6, 12]
 //Output: 2
 
 function countRotations(arr){
